@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TicTacTouch</string>
+    <string name="res">Click on a box to start the game</string>
+</resources>
